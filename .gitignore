@@ -1,0 +1,4 @@
+*.sw*
+*.vmdk
+*/docker/healthcheck.py
+*/docker/vrnetlab.py
